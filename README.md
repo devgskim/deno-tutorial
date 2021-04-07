@@ -2,6 +2,7 @@
 deno tutorial
 
 * [github](https://github.com/denoland/deno)
+* [deno manual](https://deno.land/manual)
 
 ## install 
 
